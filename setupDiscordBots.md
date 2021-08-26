@@ -17,6 +17,6 @@ Next run `touch token.txt`. This will be the file that will hold the discord app
 
 Finishing Touches
 	
-		Run the executable that initiated the bot, in this case `main.py`.
+Run the executable that initiated the bot, in this case `main.py`.
 
-NOTE: For MacOS users, if `main.py` returns an error, it may be because you need to install certificates. Navigate to `Applications > Python 3.9 > double click Install Certificates.command`. Let it run and then run `main.py` again and the bot should work!
+NOTE: For MacOS users, if `main.py` returns an error, it may be because you need to install certificates. Navigate to `Applications > Python 3.9 > Install Certificates.command`. Let it run and then run `main.py` again and the bot should work!
