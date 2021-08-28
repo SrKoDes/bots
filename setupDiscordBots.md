@@ -7,7 +7,7 @@ Create a parent directory to host the code. If the code exists in github go to t
 
 Create a virtual environment. This will allow you to download packages without affecting your native environment’s software. Run `python3 -m venv venv` inside your parent directory. Activate the virtual environment using `source venv/bin/activate`. 
 
-Now we need to install all the required packages/libraries/modules for the code to run successfully. Run `pip3 -r requirements.txt`. 
+Now we need to install all the required dependencies for the code to run successfully. Run `pip3 -r requirements.txt`. 
 
 ## *Setting up the Application and Bot*
 
